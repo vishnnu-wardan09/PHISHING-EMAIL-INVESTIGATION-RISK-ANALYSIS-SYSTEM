@@ -1,0 +1,52 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 39
+Investigator     : ram
+Status           : Completed
+Investigation Date: 2026-10-03 23:50:29
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 40
+Sender Email     : security.alerts@example.com
+Reply-To Email   : security.alerts@example.com
+Subject          : Urgent: Your Account Will Be Suspended
+
+-------------------- EMAIL BODY ------------------
+Dear Customer,
+
+Your account has been temporarily restricted due to suspicious activity.
+
+You must verify your account immediately to avoid permanent suspension.
+
+Click the link below to verify your login credentials:
+http://example.com/verify-login
+
+Please provide your username and password to complete the verification process.
+
+Failure to respond within 24 hours may result in account suspension.
+
+Regards,  
+Security Support Team
+
+
+------------------- DETECTED URLS ----------------
+- http://example.com/verify-login
+
+------------------- ATTACHMENTS ------------------
+- samples/test.exe
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 0
+URL Score        : 25
+Content Score    : 30
+Attachment Score : 25
+Header Score     : 0
+--------------------------------------------------
+Final Risk Score : 80/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

@@ -1,0 +1,45 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 29
+Investigator     : ram
+Status           : Completed
+Investigation Date: 2026-09-29 23:41:35
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 30
+Sender Email     : security-team@unknown-alert.com
+Reply-To Email   : verify-account@unknown-alert.com
+Subject          : URGENT: Your Account Will Be Suspended
+
+-------------------- EMAIL BODY ------------------
+Dear Customer,
+Your account will be suspended immediately unless you verify your identity.
+Click the link below to verify your account:
+http://secure-login-example.com/verify
+Please provide your username and password to complete the verification.
+Your account will be permanently blocked if you do not verify immediately.
+Thank you,
+Security Verification Team
+
+
+------------------- DETECTED URLS ----------------
+- http://secure-login-example.com/verify
+
+------------------- ATTACHMENTS ------------------
+- samples/test_attachment.txt
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 20
+URL Score        : 25
+Content Score    : 45
+Attachment Score : 15
+Header Score     : 15
+--------------------------------------------------
+Final Risk Score : 100/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

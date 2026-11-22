@@ -1,0 +1,41 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 43
+Investigator     : vishnnu
+Status           : Completed
+Investigation Date: 2026-10-10 12:08:12
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 44
+Sender Email     : document-share@unknown-example.com
+Reply-To Email   : replies@fake-example.com
+Subject          : Important document - open immediately
+
+-------------------- EMAIL BODY ------------------
+Please download the attached document immediately.
+It contains an urgent account verification request.
+If prompted, enable scripts and enter your password.
+Link: http://fake-example.com/download
+
+
+------------------- DETECTED URLS ----------------
+- http://fake-example.com/download
+
+------------------- ATTACHMENTS ------------------
+- samples/test.pdf
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 20
+URL Score        : 10
+Content Score    : 30
+Attachment Score : 20
+Header Score     : 15
+--------------------------------------------------
+Final Risk Score : 95/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

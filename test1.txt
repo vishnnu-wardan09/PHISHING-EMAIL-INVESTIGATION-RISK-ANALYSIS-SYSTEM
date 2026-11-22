@@ -1,0 +1,4 @@
+INVOICE TEST
+Amount: 1250 INR
+Please review the invoice with your finance team.
+Synthetic test data.

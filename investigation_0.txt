@@ -1,0 +1,46 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 0
+Investigator     : ram
+Status           : Completed
+Investigation Date: 2026-10-03 23:41:59
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 39
+Sender Email     : security@example.com
+Reply-To Email   : security@example.com
+Subject          :  URGENT: Security Update Required
+
+-------------------- EMAIL BODY ------------------
+Dear User,
+
+URGENT! Your account requires immediate security verification.
+
+Please review the attached executable file named test.exe as part of this security test. Verify your account status and check the attachment for suspicious indicators.
+
+Thank you,
+Security Team
+Account Verification Department
+
+
+------------------- DETECTED URLS ----------------
+No URLs detected.
+
+------------------- ATTACHMENTS ------------------
+- samples/test.exe
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 0
+URL Score        : 0
+Content Score    : 10
+Attachment Score : 25
+Header Score     : 0
+--------------------------------------------------
+Final Risk Score : 35/100
+Risk Level       : LOW
+==================================================
+
+Report generated successfully.

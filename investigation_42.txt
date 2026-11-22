@@ -1,0 +1,48 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 42
+Investigator     : nihal
+Status           : Completed
+Investigation Date: 2026-10-09 21:07:18
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 43
+Sender Email     : security-alert@unknown-example.com
+Reply-To Email   : attacker@fake-example.com
+Subject          : URGENT: Account Suspended - Immediate Action Required
+
+-------------------- EMAIL BODY ------------------
+URGENT! Your account has been suspended immediately.
+
+Please verify your account and password to restore access.
+Your account will remain suspended unless you complete verification.
+A payment confirmation is also required immediately.
+
+Click here to verify:
+http://fake-example.com/login
+
+Thank you,
+Security Support Team
+
+
+------------------- DETECTED URLS ----------------
+- http://fake-example.com/login
+
+------------------- ATTACHMENTS ------------------
+- samples/test.pptx
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 20
+URL Score        : 25
+Content Score    : 70
+Attachment Score : 20
+Header Score     : 15
+--------------------------------------------------
+Final Risk Score : 100/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

@@ -1,0 +1,51 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 40
+Investigator     : nihal
+Status           : Completed
+Investigation Date: 2026-10-09 20:51:52
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 41
+Sender Email     : security-alert@unknown-example.com
+Reply-To Email   : attacker@fake-example.com
+Subject          : URGENT: Your Bank Account Will Be Suspended
+
+-------------------- EMAIL BODY ------------------
+Dear Customer,
+
+URGENT! Your account will be suspended immediately.
+
+Please verify your account and password by clicking the link below.
+
+http://fake-example.com/login
+
+If you do not verify your account immediately, your account will be suspended.
+
+Please complete the verification to avoid losing access.
+
+Thank you,
+Security Support Team
+
+
+------------------- DETECTED URLS ----------------
+- http://fake-example.com/login
+
+------------------- ATTACHMENTS ------------------
+- samples/test.exe
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 20
+URL Score        : 25
+Content Score    : 55
+Attachment Score : 25
+Header Score     : 15
+--------------------------------------------------
+Final Risk Score : 100/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

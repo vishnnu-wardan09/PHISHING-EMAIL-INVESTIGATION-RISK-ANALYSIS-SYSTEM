@@ -1,0 +1,8 @@
+From: document-share@unknown-example.com
+Reply-To: replies@fake-example.com
+Subject: Important document - open immediately
+
+Please download the attached document immediately.
+It contains an urgent account verification request.
+If prompted, enable scripts and enter your password.
+Link: http://fake-example.com/download

@@ -1,0 +1,7 @@
+From: security-alert@unknown-example.com
+Reply-To: attacker@fake-example.com
+Subject: URGENT: Account Suspended
+
+URGENT! Your account will be suspended immediately.
+Please verify your account and password.
+Click http://fake-example.com/login to restore access.

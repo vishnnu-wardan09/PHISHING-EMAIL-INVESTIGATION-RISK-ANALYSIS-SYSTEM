@@ -1,0 +1,6 @@
+From: Support@example.com
+Reply-To: support@example.com
+Subject: Account notice
+
+Please VerIfY your account when convenient.
+This tests case-sensitive keyword detection.

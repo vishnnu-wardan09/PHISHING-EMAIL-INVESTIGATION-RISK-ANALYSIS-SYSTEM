@@ -1,0 +1,50 @@
+==================================================
+             INVESTIGATION REPORT
+==================================================
+
+--------------- INVESTIGATION DETAILS -----------
+Investigation ID : 26
+Investigator     : ram
+Status           : Completed
+Investigation Date: 2026-09-27 19:03:39
+
+------------------- EMAIL DETAILS ----------------
+Email ID         : 27
+Sender Email     : support@example.com
+Reply-To Email   : verify@example.com
+Subject          : Account Verification Required
+
+-------------------- EMAIL BODY ------------------
+
+Dear Customer,
+
+We noticed unusual activity on your account.
+
+Please verify your account using the link below:
+
+http://example.com/verify
+
+Please provide your account information to complete the verification.
+
+Thank you,
+Support Team
+
+
+------------------- DETECTED URLS ----------------
+- http://example.com/verify
+
+------------------- ATTACHMENTS ------------------
+- document.pdf
+
+------------------- RISK ANALYSIS ----------------
+Sender Score     : 20
+URL Score        : 25
+Content Score    : 10
+Attachment Score : 0
+Header Score     : 15
+--------------------------------------------------
+Final Risk Score : 70/100
+Risk Level       : HIGH
+==================================================
+
+Report generated successfully.

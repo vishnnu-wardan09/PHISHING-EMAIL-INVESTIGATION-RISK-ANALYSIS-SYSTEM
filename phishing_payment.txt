@@ -1,0 +1,7 @@
+From: billing@fake-example.com
+Reply-To: collect-payment@unknown-example.com
+Subject: Payment Required Immediately
+
+Your payment is overdue. Verify your account immediately to avoid suspension.
+Send payment confirmation and password details to continue.
+Visit http://fake-example.com/payment

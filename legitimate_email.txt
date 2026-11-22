@@ -1,0 +1,8 @@
+From: library@example.edu
+Reply-To: library@example.edu
+Subject: Library opening hours
+
+Hello Student,
+The library will open at 8:00 AM tomorrow. Please bring your student ID if you plan to borrow books.
+Regards,
+College Library Team
